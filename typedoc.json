@@ -1,0 +1,18 @@
+{
+    "mode": "file",
+    "module": "commonjs",
+    "theme": "default",
+    "out": "docs",
+    "target": "ES6",
+    "moduleResolution": "node",
+    "includeDeclarations":"false",
+    "ignoreCompilerErrors": "true",
+    "experimentalDecorators": "true",
+    "externalPattern":"**/*.d.ts",
+    "excludeExternals":"true",
+    "emitDecoratorMetadata": "true",
+    "preserveConstEnums": "true",
+    "stripInternal": "true",
+    "suppressExcessPropertyErrors": "true",
+    "suppressImplicitAnyIndexErrors": "true"
+  }
